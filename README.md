@@ -449,3 +449,11 @@ Start by inspecting the repository and comparing its actual state with this READ
 QuantumForge is developed incrementally: understand the current code, make a focused change, prove it with tests, document it, and preserve a known-good checkpoint. Correctness and reproducibility come before feature count.
 
 For current development status, always trust the repository, test output, and Git history over stale statements in documentation. Update this README when verified project facts change.
+
+---
+
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)** - see the [LICENSE](LICENSE) file for details.
+
+Under this strong copyleft license, any modifications or derivative works (including those made accessible over a network as a web or cloud service) must also be open-sourced under the same AGPLv3 terms.
